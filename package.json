@@ -20,12 +20,13 @@
   },
   "homepage": "https://github.com/btzdnl/resizeit2#readme",
   "devDependencies": {
-    "@eslint/js": "~9.39.1",
+    "@eslint/js": "~10.0.1",
     "bootstrap": "~4.6.2",
-    "eslint": "~9.39.1",
-    "globals": "^16.5.0",
-    "typescript": "~5.9.3",
-    "typescript-eslint": "~8.46.4",
+    "eslint": "~10.8.1",
+    "globals": "^17.11.0",
+    "prettier": "3.9.6",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "~8.67.0",
     "web-ext-types": "~3.2.1"
   }
 }

@@ -4,6 +4,7 @@
     "module": "none",
     "lib": ["dom", "es2017"],
     "downlevelIteration": true,
+    "ignoreDeprecations": "6.0",
     
     "strict": true,
     "noImplicitAny": true,
@@ -15,7 +16,7 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
 
-    "typeRoots": ["node_modules/@types", "node_modules/web-ext-types"]
+    "types": ["web-ext-types"]
   },
 
   "include": [
